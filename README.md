@@ -4,7 +4,7 @@
   build for production environment.
 # npm run buid:dev
   build for development environment.
-# npm run eslint
+# npm run lint
   use elint to find problems in code.
 # npm run test
   user jest to test code.
