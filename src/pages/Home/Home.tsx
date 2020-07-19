@@ -1,5 +1,5 @@
 import { addNovelWord, subtractNovelWord } from '@/redux/actions/novel';
-import personImage from '@/assets/images/hetian.png';
+import personImage from '@/assets/images/example-little.png';
 import './home.scss';
 
 interface HomeProps {
