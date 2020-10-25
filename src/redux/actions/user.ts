@@ -1,5 +1,5 @@
 import { GET_USER_INFO } from '@/redux/actionTypes/user';
-import api from '@/request/api';
+import api from '@/request/api/index';
 
 const getUserInfo = (payload: object): object => ({
   type: GET_USER_INFO,
